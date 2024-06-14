@@ -1,0 +1,3 @@
+#!/bin/bash
+ln -s /tmp/hello /tmp/_hello
+chown vincent:staff _hello
