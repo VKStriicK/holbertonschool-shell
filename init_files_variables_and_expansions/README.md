@@ -3,7 +3,7 @@
 ## **MANDATORY TASKS :**
 
 
-### 0. <o>
+### 0. '<0>'
 
 ***- Create a script that creates an alias.
 	Name: ls
